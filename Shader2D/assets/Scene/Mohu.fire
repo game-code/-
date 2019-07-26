@@ -237,7 +237,7 @@
     },
     "_children": [],
     "_tag": -1,
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 7
@@ -273,8 +273,8 @@
     "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": -183,
-      "y": 10
+      "x": -15,
+      "y": 36.00000000000003
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -328,7 +328,7 @@
     },
     "_children": [],
     "_tag": -1,
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 10
@@ -364,8 +364,8 @@
     "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": 272,
-      "y": 77
+      "x": -220,
+      "y": 100
     },
     "_skewX": 0,
     "_skewY": 0,
